@@ -584,6 +584,12 @@ All demo assets, presentation slides, architecture diagrams, and supplementary d
 
 > Includes: demo PDF, screenshots, slide deck, and evaluation traces.
 
+### 🎥 Demo Video (YouTube)
+
+Watch the complete demonstration of StreamMind PRISM 2026 in action:
+
+**[▶️ StreamMind PRISM 2026 — YouTube Demo](https://youtu.be/T6iiz7Za__w?si=zU5Ge_qWs0VILWxM)**
+
 ---
 
 ## License
@@ -596,6 +602,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 Built with ❤️ for local-first AI · **StreamMind PRISM 2026**
 
-[📁 Google Drive Assets](https://drive.google.com/drive/folders/1PMS4ymYu774PWlgXPrteUA35hcpyKjZ6?usp=drive_link) · [GitHub](https://github.com/vasuparmar7360/StreamMind-PRISM-2026)
+[📁 Google Drive Assets](https://drive.google.com/drive/folders/1PMS4ymYu774PWlgXPrteUA35hcpyKjZ6?usp=drive_link) · [▶️ YouTube Demo](https://youtu.be/T6iiz7Za__w?si=zU5Ge_qWs0VILWxM) · [GitHub](https://github.com/vasuparmar7360/StreamMind-PRISM-2026)
 
 </div>
